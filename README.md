@@ -10,30 +10,28 @@ Having this means that everyone who works with dwyl **knows what to aim for** in
 ##Definition of Done
 We will keep adding detail and examples to this as we gain understanding of any ambiguities that come up.
 
-For clarity, a task will not be considered to be complete until all these items can be checked off.
-- [ ] Time to be taken for the task was estimated and agreed by all present
-- [ ] Actual time taken for the task was recorded
-- [ ] All tests pass
-- [ ] Code updates come with a corresponding update to the documentation
-- [ ] Front end features should be user-tested and notes should exist on this testing
+For clarity, a task/pull request will not be considered to be complete until all these items can be checked off.
+* [ ] **Estimate expected time** required to complete task (before starting it) and agree with all present 
+* [ ] **Record actual time taken** for the task
+* [ ] **Update the README.md** with any changes/additions made
+* [ ] Your code follows the **dwyl style guide** https://github.com/dwyl/summer-2015/issues/22
 * [ ] **100% test coverage**
 * [ ] **All tests pass**
+<img width="574" alt="github-scraper-coverage-report" src="https://cloud.githubusercontent.com/assets/194400/9033681/4ab9b122-39c1-11e5-857c-92ef3db0647c.png">
+
 * [ ] **Descriptive pull request text**, answering:
   + What problem/issue are you fixing?
   + What does this PR implement and how? 
-* [ ] **Assign your PR to someone** for a code review
-  + This person _will be contacted **first**_ if a bug is introduced into `master` 
 
 <img width="786" alt="perfect-PR" src="https://cloud.githubusercontent.com/assets/4185328/9028359/1804d5f2-396e-11e5-9a27-ffc14fad9f36.png">
 _https://github.com/indexzero/ps-tree/pull/12_
 
+* [ ] **Assign your PR to someone** for a code review
+  + This person _will be contacted **first**_ if a bug is introduced into `master` 
+    
+  <br/>  
+  <br/>
+**_For [brownie points](https://en.wikipedia.org/wiki/Brownie_points):_**
+* [ ] User testing of front-end features with notes!
+* [ ] Video walkthrough of using the feature/functionality created [example needs to be created]
 
-_Required actions:_
-- [ ] Code follows the dwyl styleguide [must be officially created https://github.com/dwyl/summer-2015/issues/22]
-- [ ] Video walkthrough of using the feature/fundtionality created [example needs to be created]
-
-
-###Descriptive Pull Request
-The description of your pull request (PR) should answer:
-+ What problem/issue are you fixing?
-+ What does this PR implement and how? 
