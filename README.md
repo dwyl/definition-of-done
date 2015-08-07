@@ -11,12 +11,15 @@ Having this means that everyone who works with dwyl **knows what to aim for** in
 We will keep adding detail and examples to this as we gain understanding of any ambiguities that come up.
 
 For clarity, a task/pull request will not be considered to be complete until all these items can be checked off.
-* [ ] **Estimate expected time** required to complete task (before starting it) and agree with all present 
-* [ ] **Record actual time taken** for the task
+* [ ] Task has its own **GitHub issue** (something it is solving)
+  * [ ] **Estimate of expected time** required to complete task was agreed with all present and recorded **before starting the task**
+  * [ ] Issue number is **included in the commit messages** for traceability
+* [ ] **Record actual time taken** for the task in the PR
 * [ ] **Update the README.md** with any changes/additions made
-* [ ] Your code follows the **dwyl style guide** https://github.com/dwyl/summer-2015/issues/22
+* [ ] Your code follows the [**dwyl style guide**](https://github.com/dwyl/style-guide)
 * [ ] **100% test coverage**
-* [ ] **All tests pass**
+* [ ] **All tests pass**    
+
 <img width="574" alt="github-scraper-coverage-report" src="https://cloud.githubusercontent.com/assets/194400/9033681/4ab9b122-39c1-11e5-857c-92ef3db0647c.png">
 
 * [ ] **Descriptive pull request text**, answering:
