@@ -26,8 +26,10 @@ For clarity, a task/pull request will not be considered to be complete until all
   + What problem/issue are you fixing?
   + What does this PR implement and how?
 
-<img width="786" alt="perfect-PR" src="https://cloud.githubusercontent.com/assets/4185328/9028359/1804d5f2-396e-11e5-9a27-ffc14fad9f36.png">
-_https://github.com/indexzero/ps-tree/pull/12_
+Example Pull Request: https://github.com/indexzero/ps-tree/pull/12
+
+![pull request example](https://cloud.githubusercontent.com/assets/4185328/9028359/1804d5f2-396e-11e5-9a27-ffc14fad9f36.png)
+
 
 * [ ] **Assign your PR to someone** for a code review
   + This person _will be contacted **first**_ if a bug is introduced into `master`
